@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TDDCursusLibrary/TDDCursusLibrary.csproj" />
+  <Project Path="TDDCursusLibraryTest/TDDCursusLibraryTest.csproj" />
+  <Project Path="UIProductie/UIProductie.csproj" Id="86f08a64-64a5-4341-bc24-54cabe332af9" />
+</Solution>
